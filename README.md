@@ -46,7 +46,7 @@ drug-faq-chatbot/
    cd drug-faq-chatbot-by-glory
 ````
 
-2. *Install dependencies*
+2. Install dependencies
 
    ```bash
    pip install -r requirements.txt
