@@ -1,9 +1,9 @@
 ```markdown
-# 💊 Drug FAQ Chatbot (CLI Version) by Glory
+ 💊 Drug FAQ Chatbot (CLI Version) by Glory
 
 An intelligent command-line chatbot that answers drug-related questions using real-time logic and natural language processing (NLP). Built with Python and designed to assist users with basic drug FAQs such as dosage, use cases, and side effects.
 
-## 🚀 Features
+ 🚀 Features
 
 - ✅ Command-line interface (CLI)
 - ✅ Real-time question parsing using keyword detection
@@ -13,14 +13,14 @@ An intelligent command-line chatbot that answers drug-related questions using re
 - ✅ Tracks usage analytics (`analytics.csv`)
 - ✅ Easy-to-extend intents and responses via `intents.json`
 
-## 🛠️ Technologies Used
+ 🛠️ Technologies Used
 
 - Python 3.11+
 - FuzzyWuzzy
 - JSON-based intent handling
 - Python logging module
 
-## 📂 Project Structure
+ 📂 Project Structure
 
 ```
 
@@ -38,27 +38,27 @@ drug-faq-chatbot/
 
 ````
 
-## 🧪 How to Run
+ 🧪 How to Run
 
-1. **Clone the repo**
+1. *Clone the repo*
    ```bash
    git clone https://github.com/glorythe21st-web/drug-faq-chatbot-by-glory.git
    cd drug-faq-chatbot-by-glory
 ````
 
-2. **Install dependencies**
+2. *Install dependencies*
 
    ```bash
    pip install -r requirements.txt
    ```
 
-3. **Run the chatbot**
+3. *Run the chatbot*
 
    ```bash
    python chatbot.py
    ```
 
-## 🔍 Sample Usage
+# 🔍 Sample Usage
 
 ```
 💊 Drug FAQ Chatbot (CLI) by Glory 💊
@@ -69,18 +69,18 @@ Type 'exit' to quit.
 🤖 Bot: The recommended dose of paracetamol for adults is 500mg to 1000mg every 4-6 hours.
 ```
 
-## 📈 Logging & Analytics
+# 📈 Logging & Analytics
 
 * `chat_log.txt` – Full conversations
 * `analytics.csv` – Structured usage tracking
 
-## 🏷️ Release Info
+# 🏷️ Release Info
 
 * **Version:** 1.0.0
 * **Release Date:** July 2025
 * **Status:** Initial CLI version released
 
-## 🔄 Future Plans
+# 🔄 Future Plans
 
 * 🌐 API integration (RxNav, OpenFDA)
 * 🖼️ GUI (Tkinter)
@@ -88,15 +88,15 @@ Type 'exit' to quit.
 * 🌍 Multilingual support
 * 🧠 Enhanced NLP with spaCy or LLMs
 
-## 🤝 Contributing
+# 🤝 Contributing
 
 Pull requests are welcome. For major changes, open an issue first to discuss what you'd like to change.
 
-## 📄 License
+# 📄 License
 
 MIT License
 
-## 👩‍💻 Author
+# 👩‍💻 Author
 
 **Joseph Glory Mamani**
 [https://github.com/glorythe21st-web](https://github.com/glorythe21st-web)
