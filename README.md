@@ -40,7 +40,7 @@ drug-faq-chatbot/
 
  🧪 How to Run
 
-1. *Clone the repo*
+1. Clone the repo
    ```bash
    git clone https://github.com/glorythe21st-web/drug-faq-chatbot-by-glory.git
    cd drug-faq-chatbot-by-glory
