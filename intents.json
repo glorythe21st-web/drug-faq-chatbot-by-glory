@@ -1,0 +1,32 @@
+{
+  "intents": [
+    {
+      "tag": "dosage",
+      "responses": [
+        "The normal adult dose of {drug} is 500 mg to 1000 mg every 4–6 hours, not exceeding 4000 mg/day.",
+        "Typically, adults can take 500–1000 mg of {drug} every 4 to 6 hours. Don't exceed the max dose per day."
+      ]
+    },
+    {
+      "tag": "side_effects",
+      "responses": [
+        "Common side effects of {drug} include nausea, dizziness, or rash. Consult a doctor if severe.",
+        "Some people experience mild side effects like headache or upset stomach when taking {drug}."
+      ]
+    },
+    {
+      "tag": "interactions",
+      "responses": [
+        "{drug} may interact with alcohol or other medications like warfarin. Always inform your healthcare provider.",
+        "Watch out for interactions between {drug} and blood thinners, anticonvulsants, etc."
+      ]
+    },
+    {
+      "tag": "unknown",
+      "responses": [
+        "Sorry, I couldn’t understand that. Could you rephrase?",
+        "Hmm, I don't have information on that yet. Try another question?"
+      ]
+    }
+  ]
+}
